@@ -1,7 +1,7 @@
 package org.example;
 
 public class WaterBottle {
-    int volume = 100;
+    private int volume = 100;
 
     public void WaterBottle(int volume) {
         this.volume = volume;

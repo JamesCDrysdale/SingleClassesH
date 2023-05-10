@@ -1,8 +1,8 @@
 package org.example;
 
 public class Printer {
-    int pages;
-    int toner;
+    private int pages;
+    private int toner;
 
     public Printer(int pages, int toner) {
         this.pages = pages;
